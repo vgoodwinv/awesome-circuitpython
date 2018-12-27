@@ -30,6 +30,10 @@
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - Learning the essential functions of CircuitPython.
 - [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - Adafruit Learning Guides on CircuitPython.
 - [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) - Guides on both CircuitPython and MicroPython.
+- CircuitPython 101
+  - [Basic Datastructures](https://learn.adafruit.com/basic-datastructures-in-circuitpython/overview)
+  - [Functions](https://learn.adafruit.com/circuitpython-101-functions)
+  - [Lists, Iterators, and Generators](https://learn.adafruit.com/circuitpython-101-list-and-things-iterators-generators)
 
 ## Community
 
@@ -37,6 +41,7 @@
 - [Python on Hardware weekly VideoCast](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev) - The wonderful world of Python on hardware. Video-newsletter-podcast of all things Python and electronics.
 - [CircuitPython Weekly Meeting](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0) - Video archive of weekly community meeting via Discord, starting from September, 2017.
 - [Adafruit CircuitPython Forums](https://forums.adafruit.com/viewforum.php?f=60) - The Adafruit discussion forum on CircuitPython.
+
 
 ## Books
 
